@@ -6,7 +6,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 **Dataset used:**
 
-[Vrinda Store](url)
+[Vrinda Store](https://github.com/poojarao76/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data.xlsx)
 
 **Questions (KPIs):**
 
